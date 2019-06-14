@@ -31,7 +31,8 @@ body {
 }
 
 #about-me,
-#contact-me {
+#contact-me,
+#my-portfolio {
     padding: 20px;
     margin-top: 45px;
     margin-bottom: 75px;
@@ -55,4 +56,8 @@ footer {
 #submit-btn {
     background-color: #4aaaa5!important;
     border-color: #4aaaa5!important;
+}
+
+.project-card {
+    padding-bottom: 15px;
 }
